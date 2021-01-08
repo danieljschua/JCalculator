@@ -1,0 +1,2 @@
+# JavaCalculator
+Simple calculator app

@@ -1,2 +1,3 @@
-# JavaCalculator
-Simple calculator app
+# JCalculator
+
+Simple calculator made with Java
